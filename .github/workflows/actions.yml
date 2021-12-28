@@ -19,6 +19,7 @@ jobs:
       # 由于示例项目代码并非在根目录,所以要这里手动进入了项目目录
       # 如果你代码本身就处于根目录则不需要再手动进入了
       run: |
+        npm install
         npm run deploy
     # 发布
     # - name: Deploy
