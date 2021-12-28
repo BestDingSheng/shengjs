@@ -1,6 +1,6 @@
 {
   "name": "shengjs",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "keywords": [
     "javascript utils"
   ],
@@ -12,6 +12,7 @@
     "build": "father-build",
     "deploy": "npm run docs:build && npm run docs:deploy",
     "release": "npm run build && npm publish",
+    "release:sh": "./scripts/release.sh",
     "prettier": "prettier --write \"**/*.{js,jsx,tsx,ts,less,md,json}\"",
     "test": "umi-test",
     "test:coverage": "umi-test --coverage",
@@ -46,6 +47,7 @@
     "gh-pages": "^3.0.0",
     "lint-staged": "^10.0.7",
     "prettier": "^2.2.1",
+    "standard-version": "^9.3.2",
     "yorkie": "^2.0.0"
   }
 }
