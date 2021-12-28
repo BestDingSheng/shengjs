@@ -1,6 +1,6 @@
 ---
 hero:
-  title: utils-ding
+  title: shengjs
   desc: 一款面向复杂业务场景的 javascript 工具库
   actions:
     - text: 开始使用

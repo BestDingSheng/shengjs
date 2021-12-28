@@ -1,6 +1,5 @@
 {
-  "private": true,
-  "name": "utils-ding",
+  "name": "shengjs",
   "version": "1.0.0",
   "keywords": [
     "javascript utils"
