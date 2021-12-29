@@ -26,3 +26,7 @@
 # ide
 /.vscode
 /.idea
+
+# cache 
+/.cache
+.npm
