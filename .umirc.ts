@@ -8,4 +8,7 @@ export default defineConfig({
   outputPath: 'docs-dist',
   mode: 'site',
   // more config: https://d.umijs.org/config
+  analytics: {
+    baidu: '654a8ba11b95d6862eac11e551395ee4',
+  },
 });

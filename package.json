@@ -2,7 +2,10 @@
   "name": "shengjs",
   "version": "1.1.0",
   "keywords": [
-    "javascript utils", "javascript tools", "tools", "utils"
+    "javascript utils",
+    "javascript tools",
+    "tools",
+    "utils"
   ],
   "homepage": "https://BestDingSheng.github.io/shengjs",
   "scripts": {
@@ -41,6 +44,7 @@
     "@testing-library/react": "^12.1.2",
     "@types/jest": "^27.0.3",
     "@umijs/fabric": "^2.8.1",
+    "@umijs/plugin-analytics": "^0.2.2",
     "@umijs/test": "^3.0.5",
     "dumi": "^1.1.0",
     "father-build": "^1.17.2",
