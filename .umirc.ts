@@ -11,4 +11,15 @@ export default defineConfig({
   analytics: {
     baidu: '654a8ba11b95d6862eac11e551395ee4',
   },
+  navs: [
+    null, // null 值代表保留约定式生成的导航，只做增量配置
+    {
+      title: 'github',
+      path: 'https://github.com/BestDingSheng/shengjs',
+    },
+    {
+      title: 'dumi',
+      path: 'https://d.umijs.org/zh-CN',
+    },
+  ],
 });
