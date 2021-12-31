@@ -1,9 +1,9 @@
 ---
 hero:
   title: shengjs
-  desc: 一款面向复杂业务场景的 javascript 工具库
+  desc: 🏆 日常使用的一款 javascript 工具库
   actions:
-    - text: 开始使用
+    - text: 👨‍💻👩‍💻 快速开始 →
       link: /lib
 features:
   - icon: https://gw.alipayobjects.com/zos/bmw-prod/881dc458-f20b-407b-947a-95104b5ec82b/k79dm8ih_w144_h144.png
