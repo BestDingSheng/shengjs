@@ -9,3 +9,7 @@ shengjs, 是一个 js 工具库，主要是平时自己经常用的一些工具�
 - debounce 防抖函数
 - throttle 节流函数
 - uuid 生成唯一 id
+- deepcopy 深拷贝
+- loadJs 动态加载 js
+- objToUrl obj 生成 url
+- urlToObj url 生成 obj
