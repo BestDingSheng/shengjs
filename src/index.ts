@@ -5,3 +5,4 @@ export { default as deepcopy } from './deepcopy';
 export { default as loadJS } from './loadJs';
 export { default as objToUrl } from './objToUrl';
 export { default as urlToObj } from './urlToObj';
+export { default as clearParams } from './clearParams';
