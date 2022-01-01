@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.1](https://github.com/BestDingSheng/shengjs/compare/prefix_v2.0.0...prefix_v2.0.1) (2022-01-01)
+
+### Features
+
+- 添加 clearParams 方法 ([5518c75](https://github.com/BestDingSheng/shengjs/commit/5518c754d926563715409aba758ca9850ac1a285))
+
 ## [2.0.0](https://github.com/BestDingSheng/shengjs/compare/prefix_v1.1.1...prefix_v2.0.0) (2021-12-31)
 
 ### Features
