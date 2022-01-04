@@ -9,6 +9,7 @@
   ],
   "homepage": "https://BestDingSheng.github.io/shengjs",
   "scripts": {
+    "new": "plop",
     "start": "dumi dev",
     "docs:build": "dumi build",
     "docs:deploy": "gh-pages -d docs-dist",
@@ -51,6 +52,7 @@
     "father-build": "^1.17.2",
     "gh-pages": "^3.0.0",
     "lint-staged": "^10.0.7",
+    "plop": "^3.0.5",
     "prettier": "^2.2.1",
     "standard-version": "^9.3.2",
     "yorkie": "^2.0.0"
