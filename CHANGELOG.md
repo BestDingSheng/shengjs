@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.2](https://github.com/BestDingSheng/shengjs/compare/prefix_v2.0.1...prefix_v2.0.2) (2022-01-04)
+
+### Features
+
+- add getDataType ([9a18ec8](https://github.com/BestDingSheng/shengjs/commit/9a18ec854484b5eb7185bb4b3b9fe0556114ab55))
+
 ### [2.0.1](https://github.com/BestDingSheng/shengjs/compare/prefix_v2.0.0...prefix_v2.0.1) (2022-01-01)
 
 ### Features
