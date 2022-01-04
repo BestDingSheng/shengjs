@@ -6,3 +6,4 @@ export { default as loadJS } from './loadJs';
 export { default as objToUrl } from './objToUrl';
 export { default as urlToObj } from './urlToObj';
 export { default as clearParams } from './clearParams';
+export { default as getDataType } from './getDataType';

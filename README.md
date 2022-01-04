@@ -14,3 +14,4 @@ shengjs, 是一个 js 工具库，主要是平时自己经常用的一些工具�
 - objToUrl obj 生成 url
 - urlToObj url 生成 obj
 - clearParams 删除对象中的空属性
+- getDataType 返回数据类型
