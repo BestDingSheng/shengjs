@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.3](https://github.com/BestDingSheng/shengjs/compare/prefix_v2.0.2...prefix_v2.0.3) (2022-01-06)
+
+### Features
+
+- add dateTominutes ([833e5b9](https://github.com/BestDingSheng/shengjs/commit/833e5b95f86a57e8037337a67537c9eb0c4f7e24))
+
 ### [2.0.2](https://github.com/BestDingSheng/shengjs/compare/prefix_v2.0.1...prefix_v2.0.2) (2022-01-04)
 
 ### Features
