@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.4](https://github.com/BestDingSheng/shengjs/compare/prefix_v2.0.3...prefix_v2.0.4) (2022-01-08)
+
+### Features
+
+- add deepEqual ([4c6cd44](https://github.com/BestDingSheng/shengjs/commit/4c6cd44f4b37c17c01012ba94f76a9fb0f781ba4))
+
 ### [2.0.3](https://github.com/BestDingSheng/shengjs/compare/prefix_v2.0.2...prefix_v2.0.3) (2022-01-06)
 
 ### Features
