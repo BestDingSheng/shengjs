@@ -6,12 +6,14 @@ shengjs, 是一个 js 工具库，主要是平时自己经常用的一些工具�
 
 目前已经支持:
 
+- clearParams 删除对象中的空属性
 - debounce 防抖函数
-- throttle 节流函数
-- uuid 生成唯一 id
+- dateTominutes 日期转成分钟
+- deepEqual 深比较
 - deepcopy 深拷贝
+- getDataType 返回数据类型
+- throttle 节流函数
 - loadJs 动态加载 js
 - objToUrl obj 生成 url
 - urlToObj url 生成 obj
-- clearParams 删除对象中的空属性
-- getDataType 返回数据类型
+- uuid 生成唯一 id
