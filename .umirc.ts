@@ -21,5 +21,9 @@ export default defineConfig({
       title: 'dumi',
       path: 'https://d.umijs.org/zh-CN',
     },
+    {
+      title: 'npm',
+      path: 'https://www.npmjs.com/package/shengjs',
+    },
   ],
 });
