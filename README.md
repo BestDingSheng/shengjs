@@ -17,3 +17,4 @@ shengjs, 是一个 js 工具库，主要是平时自己经常用的一些工具�
 - objToUrl obj 生成 url
 - urlToObj url 生成 obj
 - uuid 生成唯一 id
+- store 支持过期时间的 localStorage
