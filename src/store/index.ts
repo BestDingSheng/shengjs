@@ -7,12 +7,11 @@ function setLocal(key: string, value: any, time: number) {
     value: value,
     expiry: now.getTime() + time,
   };
-  localStorage.setLocal(key, JSON.stringify(item));
+  localStorage.setItem(key, JSON.stringify(item));
 }
 
 function getLocal(key: string) {
-  const itemStr = localStorage.getLocal(key);
-
+  const itemStr = localStorage.getItem(key);
   // if the item doesn't exist, return null
   if (!itemStr) {
     return null;
