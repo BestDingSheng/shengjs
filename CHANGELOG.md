@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.6](https://github.com/BestDingSheng/shengjs/compare/prefix_v2.0.5...prefix_v2.0.6) (2022-01-15)
+
+### Bug Fixes
+
+- store ([daee497](https://github.com/BestDingSheng/shengjs/commit/daee497a0c4ec6072dda0d28c7dd7955fa29465d))
+
 ### [2.0.5](https://github.com/BestDingSheng/shengjs/compare/prefix_v2.0.4...prefix_v2.0.5) (2022-01-11)
 
 ### Features
