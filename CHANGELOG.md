@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.7](https://github.com/BestDingSheng/shengjs/compare/prefix_v2.0.6...prefix_v2.0.7) (2022-01-20)
+
+### Features
+
+- add sleep ([24b7223](https://github.com/BestDingSheng/shengjs/commit/24b72235fa799bebbb9fe1f31f0e6c0a8dd8be0d))
+
 ### [2.0.6](https://github.com/BestDingSheng/shengjs/compare/prefix_v2.0.5...prefix_v2.0.6) (2022-01-15)
 
 ### Bug Fixes
