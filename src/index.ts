@@ -1,4 +1,5 @@
 /* inject */
+export { default as randomStr } from './randomStr';
 export { default as sleep } from './sleep';
 export { default as store } from './store';
 export { default as deepEqual } from './deepEqual';
