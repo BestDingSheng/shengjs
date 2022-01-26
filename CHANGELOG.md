@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.8](https://github.com/BestDingSheng/shengjs/compare/prefix_v2.0.7...prefix_v2.0.8) (2022-01-26)
+
+### Features
+
+- add randomStr ([a3b767a](https://github.com/BestDingSheng/shengjs/commit/a3b767ae0fafd3a23f51d43637d405077d09d80b))
+
 ### [2.0.7](https://github.com/BestDingSheng/shengjs/compare/prefix_v2.0.6...prefix_v2.0.7) (2022-01-20)
 
 ### Features
